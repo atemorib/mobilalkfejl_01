@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimonGame</string>
+    <string name="highscore_text">Top 4 scores</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="set_difficulty">Set the difficulty</string>
+    <string name="savechange">Set difficulty</string>
+
+</resources>
